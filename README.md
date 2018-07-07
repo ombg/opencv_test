@@ -1,5 +1,5 @@
 # opencv_test
-Testing if own 'CMakeLists.txt' can find OpenCV 3.x. It requires C++17 features.
+Testing if own `CMakeLists.txt` can find OpenCV 3.x. It requires C++17 features.
 
 Details:
 
